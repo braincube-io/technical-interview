@@ -23,4 +23,4 @@ Il faut ajouter un formulaire qui contiendra un champ texte, la valeur entrée d
 
 ### Troisième phase
 
-Il faut que la barre de progression avance de 1 à 5% toutes les deux secondes.
+Il faut que la progression parte de 0, et soit incrémentée automatiquement de 1 à 5% toutes les deux secondes.
